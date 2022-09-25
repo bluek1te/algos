@@ -1,0 +1,4 @@
+"map", 1, 1
+"compass", 3, 4
+"water", 4, 5
+"sandwich", 5, 7
